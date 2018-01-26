@@ -1,0 +1,39 @@
+body{
+	margin-left: 20%;
+	margin-right:20%;
+	padding-top: 5%;
+	padding-left:30px;
+	padding-right:30px;
+	border:2px dotted grey;
+	width:800 px;
+	height: 300px;
+	
+}
+
+form{
+	padding:10px 10px 10px 10px;
+	background-color: goldenrod;
+}
+
+input{
+	margin:15px 15px 15px 15px;
+}
+label{
+	width:200px;
+	font-family: sans-serif;
+	font-weight: 300;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+h1,p{
+	color:brown;
+	font-family: fantasy;
+	
+}
+h1{
+	font-size: 300;
+}
+p{
+	font-size: 100;
+}
